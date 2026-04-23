@@ -32,7 +32,7 @@
 <details align="center">
   <summary><strong>Step 1: Fork Repository</strong></summary>
   <p align="center">
-    <a href="https://github.com/AiOfLautech/God-s-Zeal-Xmd/fork">
+    <a href="https://github.com/Xchristech2/GaajuX/fork">
       <img src="https://img.shields.io/badge/-FORK%20REPO-00ccff?style=for-the-badge&logo=github&logoColor=white&labelColor=black" height="40" alt="Fork Badge"/>
     </a>
   </p>
@@ -41,11 +41,11 @@
 <details align="center">
   <summary><strong>Step 2: Download & Host</strong></summary>
   <p align="center">
-    <a href="https://github.com/AiOfLautech/God-s-Zeal-Xmd/archive/refs/heads/main.zip">
+    <a href="https://github.com/Xchristech2/GaajuX/archive/refs/heads/main.zip">
       <img src="https://img.shields.io/badge/-DOWNLOAD%20ZIP-00ccff?style=for-the-badge&logo=github&logoColor=white&labelColor=black" height="40" alt="Download ZIP"/>
     </a>
     <br/>
-    <img src="https://img.shields.io/github/downloads/AiOfLautech/God-s-Zeal-Xmd/HEAD.zip?style=flat-square&label=Zip%20Downloads" alt="ZIP Downloads" />
+    <img src="https://img.shields.io/github/downloads/Xchristech2/GaajuX/HEAD.zip?style=flat-square&label=Zip%20Downloads" alt="ZIP Downloads" />
   </p>
   <ol>
     <li>Download ZIP archive of latest code.</li>
@@ -104,10 +104,10 @@
 ## 🔗 Connect With Us
 
 <div align="center">
-  <a href="https://t.me/aitoolshub01">
+  <a href="https://t.me/Official_ChrisGaajuChat">
     <img src="https://img.shields.io/badge/-TELEGRAM%20CHANNEL-0088cc?style=for-the-badge&logo=telegram&logoColor=white" height="35" alt="Telegram"/>
   </a>
-  <a href="https://whatsapp.com/channel/0029Va90zAnIHO8Msp3A">
+  <a href="https://whatsapp.com/channel/0029VbBvGgyFsn0alyIDjw0z">
     <img src="https://img.shields.io/badge/-WHATSAPP%20CHANNEL-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="35" alt="WhatsApp"/>
   </a>
 </div>
@@ -118,8 +118,8 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/AiOfLautech/God-s-Zeal-Xmd.git
-cd God-s-Zeal-Xmd
+git clone https://github.com/Xchristech2/GaajuX.git
+cd GaajuX
 
 # Install dependencies
 npm install
