@@ -1,0 +1,28 @@
+const settings = {
+  packname: 'GaajuX',
+  author: '',
+  botName: 'GaajuX',
+  botOwner: 'ᴄʜʀɪs ɢᴀᴀᴊᴜ',
+  ownerNumber: '2348069675806',
+  ownerNumbers: ['2348069675806', '2348038915922'],
+  devNumbers: ['2348069675806', '2348038915922'],
+  commandPrefix: '.',
+  newsletterJid: '120363423879817556@newsletter',
+  telegramHandlersDir: 'handlers',
+  premiumDbPath: 'data/premium_users.db',
+  channelUrl: 'https://whatsapp.com/channel/0029VbCt4MzCHDyk95cErV0y',
+  youtubeUrl: 'https://youtube.com/@Xchristech',
+  giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
+  commandMode: 'public',
+  maxStoreMessages: 20,
+  storeWriteInterval: 10000,
+  description: 'This is a bot for managing group commands and automating tasks.',
+  version: '3.0.7',
+  updateZipUrl: 'https://github.com/Xchristech2/GaajuX/archive/refs/heads/main.zip',
+  pairApiBase: process.env.PAIR_API_BASE || '',
+  mongoUri: process.env.MONGO_URI || '',
+  mongoDbName: process.env.MONGO_DB_NAME || 'gaajux',
+  mongoEncryptionKey: process.env.MONGO_ENCRYPTION_KEY || '',
+};
+
+module.exports = settings;
