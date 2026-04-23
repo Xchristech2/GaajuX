@@ -175,7 +175,7 @@ Always comply with WhatsApp's policies and local laws.
 
 ### 📜 License
 
-MIT © 
+MIT © ᴄʜʀɪs ɢᴀᴀᴊᴜ
 
 ---
 
