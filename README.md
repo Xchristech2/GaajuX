@@ -69,18 +69,16 @@
 <details align="center">
   <summary><strong>Step 4: Deploy on Katabump with Session ID</strong></summary>
   <p align="center">
-    <a href="https://gzpair.vercel.app">
-      <img src="https://img.shields.io/badge/-GET%20SESSION%20URL-00D9FF?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=black" height="40" alt="Get Session URL"/>
-    </a>
+    <
     <a href="https://katabump.com">
       <img src="https://img.shields.io/badge/-KATABUMP%20PANEL-00D9FF?style=for-the-badge&logo=cloud&logoColor=white&labelColor=black" height="40" alt="Katabump Panel"/>
     </a>
   </p>
   <ol>
-    <li>Visit <a href="https://gzpair.vercel.app"><strong>https://gzpair.vercel.app</strong></a> to get your session ID.</li>
+    <li>Visit <a 
     <li>Fork the repository to your GitHub account.</li>
     <li>Rename <code>.env.example</code> to <code>.env</code> in your local copy.</li>
-    <li>Paste your session ID into the designated placeholder in the <code>.env</code> file.</li>
+    <
     <li>Go to <a href="https://katabump.com"><strong>Katabump Panel</strong></a> and deploy your bot.</li>
   </ol>
 </details>
@@ -134,9 +132,9 @@ node index.js
 
 ## 📅 Project Timeline
 <div align="center">
-  <img src="https://img.shields.io/github/commit-activity/m/AiOfLautech/God-s-Zeal-Xmd?style=for-the-badge&color=purple" />
-  <img src="https://img.shields.io/github/issues-pr/AiOfLautech/God-s-Zeal-Xmd?style=for-the-badge&color=teal" />
-  <img src="https://img.shields.io/github/issues/AiOfLautech/God-s-Zeal-Xmd?style=for-the-badge&color=pink" />
+  <img src="https://img.shields.io/github/commit-activity/m/Xchristech2/GaajuX?style=for-the-badge&color=purple" />
+  <img src="https://img.shields.io/github/issues-pr/Xchristech2/GaajuX?style=for-the-badge&color=teal" />
+  <img src="https://img.shields.io/github/issues/Xchristech2/GaajuX?style=for-the-badge&color=pink" />
 </div>
 
 ---
@@ -155,8 +153,8 @@ Always comply with WhatsApp's policies and local laws.
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/AiOfLautech">
-        <img src="https://img.shields.io/badge/Godszeal-00ffff?style=for-the-badge&logo=github&logoColor=black" alt="godszeal">
+      <a href="https://github.com/Xchristech2">
+        <img src="https://img.shields.io/badge/Gaaju-00ffff?style=for-the-badge&logo=github&logoColor=black" alt="godszeal">
       </a>
     </td>
     <td align="center">
@@ -168,7 +166,7 @@ Always comply with WhatsApp's policies and local laws.
 </table>
 
 <p align="center"> 
-  <a href="https://github.com/AiOfLautech/God-s-Zeal-Xmd">
+  <a href="https://github.com/Xchristech2/Gaaju">
     <img src="https://img.shields.io/badge/⭐_STAR_THIS_REPO_⭐-yellow?style=for-the-badge&logo=github" alt="Star Repo">
   </a>
 </p>
@@ -177,7 +175,7 @@ Always comply with WhatsApp's policies and local laws.
 
 ### 📜 License
 
-MIT © G
+MIT © 
 
 ---
 
