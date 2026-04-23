@@ -1,15 +1,15 @@
-# 𝐆𝐎𝐃𝐒𝐙𝐄𝐀𝐋 𝐗𝐌𝐃
+# 𝐆aaju X
 # FIX ALL ISSUES, DON'T MAKE USE OF SESSION ID, JUST DOWNLOAD THE ZIP FILE AND UPLOAD TO TERMINAL THEN RUN IT WILL REQUEST FOR YOUR PHONE NUMBER 🙂 🙂
 
 
 <!-- HEADER WITH TYPING SVG AND BOT IMAGE -->
 <div align="center">
   <a href="https://git.io/typing-svg"> 
-    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=56&pause=500&color=33FF00&center=true&width=900&height=120&lines=𝐆𝐎𝐃𝐒𝐙𝐄𝐀𝐋+𝐗𝐌𝐃;Multi-Device+WhatsApp+Bot;All+Deployment+Errors+Fixed" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=56&pause=500&color=33FF00&center=true&width=900&height=120&lines=𝐆aaju+X;Multi-Device+WhatsApp+Bot;All+Deployment+Errors+Fixed" alt="Typing SVG"/>
   </a>
   <br/><br/>
   <div style="display:inline-block;padding:12px;border-radius:50%;box-shadow:0 8px 32px 0 #33333380;background:linear-gradient(135deg,#33FF00 45%,#00BFFF 100%);">
-    <img src="https://raw.githubusercontent.com/AiOfLautech/God-s-Zeal-Xmd/main/assets/bot_image.jpg" alt="𝐆𝐎𝐃𝐒𝐙𝐄𝐀𝐋 𝐗𝐌𝐃" height="220" style="border-radius:50%;border:5px solid #00BFFF;" />
+    <img src="https://raw.githubusercontent.com/Xchristech2/GaajuX/main/assets/bot_image.jpg" alt="𝐆aaju 𝐗" height="220" style="border-radius:50%;border:5px solid #00BFFF;" />
   </div>
 </div>
 
@@ -18,11 +18,11 @@
 ## 📊 GitHub Repo Stats
 
 <div align="center">
-  <img src="https://img.shields.io/github/stars/AiOfLautech/God-s-Zeal-Xmd?style=for-the-badge&color=yellow&label=Stars" />
-  <img src="https://img.shields.io/github/forks/AiOfLautech/God-s-Zeal-Xmd?style=for-the-badge&color=blue&label=Forks" />
-  <img src="https://img.shields.io/github/last-commit/AiOfLautech/God-s-Zeal-Xmd?style=for-the-badge&color=red&label=Last%20Update" />
-  <img src="https://komarev.com/ghpvc/?username=AiOfLautech&color=brightgreen&style=for-the-badge&label=Repo%20Views" />
-  <img src="https://img.shields.io/github/downloads/AiOfLautech/God-s-Zeal-Xmd/HEAD.zip?style=for-the-badge&color=orange&label=ZIP%20Downloads" />
+  <img src="https://img.shields.io/github/stars/Xchristech2/GaajuX?style=for-the-badge&color=yellow&label=Stars" />
+  <img src="https://img.shields.io/github/forks/Xchristech2/GaajuX?style=for-the-badge&color=blue&label=Forks" />
+  <img src="https://img.shields.io/github/last-commit/Xchristech2/GaajuX?style=for-the-badge&color=red&label=Last%20Update" />
+  <img src="https://komarev.com/ghpvc/?username=Xchristech2&color=brightgreen&style=for-the-badge&label=Repo%20Views" />
+  <img src="https://img.shields.io/github/downloads/Xchristech2/GaajuX/HEAD.zip?style=for-the-badge&color=orange&label=ZIP%20Downloads" />
 </div>
 
 ---
@@ -177,12 +177,12 @@ Always comply with WhatsApp's policies and local laws.
 
 ### 📜 License
 
-MIT © Godszeal
+MIT © G
 
 ---
 
 <!-- Decorative Divider -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00ff66&height=90&section=footer" style="margin-top:-30px;" />
-  <br/><sub>Styled by <a href="https://github.com/AiOfLautech">AiOfLautech</a> | Powered by ☕ & ❤️ | Last Update: 2026-02-18 04:09:59</sub>
+  <br/><sub>Styled by <a href="https://github.com/Xchristech2">Xchristech2</a> | Powered by ☕ & ❤️ | Last Update: 2026-02-18 04:09:59</sub>
 </div>
